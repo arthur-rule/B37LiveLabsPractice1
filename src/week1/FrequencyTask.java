@@ -3,6 +3,7 @@ package week1;
 public class FrequencyTask {
     public static void main(String[] args) {
         //student1 solved
+        //student Arthur added code
 
     }
 
