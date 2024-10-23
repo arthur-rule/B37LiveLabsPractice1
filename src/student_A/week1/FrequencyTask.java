@@ -1,8 +1,8 @@
-package week1;
+package student_A.week1;
 
 public class FrequencyTask {
     public static void main(String[] args) {
-
+        //student arthur added solutions
     }
 
 
