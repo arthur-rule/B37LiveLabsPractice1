@@ -5,6 +5,8 @@ public class FrequencyTask {
         //student1 solved
 
     }
+
+
     /*
     Frequency of Characters Task:
     Write a program to display the frequency of each character in a given string.
